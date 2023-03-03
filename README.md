@@ -12,7 +12,7 @@ Set up your OpenAI API credentials. You'll need to provide your API key to authe
 Run the generate_images.py script with the desired prompt and number of images to generate. For example:
 
 ## Example
-There is an example where 20 pictures are created using dalle2. All these pictures are saved in a folder inside of photos.
+There is an example where 5 images are created using dalle2. All these pictures are saved in a folder inside of photos.
 
 ## How to run
 
